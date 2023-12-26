@@ -2,7 +2,7 @@
 
 ## Objective
   * Simulate a datacenter network using ns3.
-  * Experiment two traffic patterns.
+  * Experiment with two traffic patterns.
   * Examine the network.
   * Improve the network.
 
