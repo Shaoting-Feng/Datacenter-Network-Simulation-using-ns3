@@ -13,7 +13,7 @@
 
 ## Description
   * 8 servers: n1\~8; 4 ToR switches: t1\~4; 2 aggregation switches: a1\~2; 1 core switch: c1
-  * The network is partitioned into two clusters
+  * The network is partitioned into two clusters.
   * The links connecting to c1 are PPP, or the other networks are Ethernets, the networks’ capacities are shown on the topology graph.
   * All the end-end delays on the networks are 500ns.
   * IP address assignment is shown on the topology.
