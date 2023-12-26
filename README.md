@@ -9,7 +9,7 @@ project 1：`Datacenter Network Simulation using ns3`
   * Examine the network.
   * Improve the network.
 
-## topology
+## Topology
 <div align=center>
     <img width="759" height="300" src="https://github.com/fox6666/Datacenter-Network-Simulation-using-ns3/blob/master/image/network.png"       "网络拓扑图"/>
 </div>
